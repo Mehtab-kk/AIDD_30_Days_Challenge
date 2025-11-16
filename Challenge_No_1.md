@@ -6,6 +6,7 @@
 ----
 
 Q1) What does AI-Driven Development mean to you?
+
 To me, AI-Driven Development means working with AI instead of doing everything alone.
 Before this, developers had to write all the code manually, search for errors online, and spend hours fixing small issues.
 Now, AI works like a smart partner. It helps with planning, writing code, debugging, testing, and giving new ideas.
@@ -17,6 +18,7 @@ AI gives speed, and humans give direction. ✨
 ----
 
 Q2) How do you see the future of Human–AI Collaboration in software development?
+
 I believe the future will be a strong partnership between humans and AI.
 Developers won’t disappear; instead, our roles will become more advanced. We’ll focus more on:
 
