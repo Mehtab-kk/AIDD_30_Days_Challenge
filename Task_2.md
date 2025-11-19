@@ -41,19 +41,82 @@ yahi kuch wajah ha ke app vibe coding hafte baad problem create kerte hain.
 
 ### Q.2: How would Specification-Driven Development prevent those problems?
 
-**answer**: Specification-Driven development me pehle se plan kerte hain ke kese kam kerna hain kam me kiya hota hain
+**answer**: Specification-Driven development me pehle se plan kerte hain ke kese kam kerna hain kam me kiya hona chaye
 aur sahi se structure define hoti hain ke iss way se kam kerna ha to iss wajah se vibe coding me masla hota hain aur
 specification-driven development me hamara kam save rehta hain.
 
 ## 3. Architecture Thinking
 
-### Q.1: How does architecture-first thinking change the role of a developer in AIDD?
-**answer**:
+### Q.1: How does architecture-first thinking change the role of a developer in AIDD
+
+**answer**: Architecture-first  iss tecnique se develpoer coding ka kam nahi kerta wo  system me designinig ,planning 
+aur AI ko guide kerta ha .
 
 ### Q.2: Explain why developers must think in layers and systems instead of raw code.
-**answer**:
+**answer**: Raw code yeh chota part hota hain iss liye iss itni tawaja nahi de jati baqi layers aur system thinking se code organized ker 
+sakte hain ,scalable aur easy manage hota hain
 
 # 📁 Part B — Practical Task (Screenshot Required)
+
+## prompt
+
+### Input
+
+> write a paragraph specification an email validatorthat checks the email "mehtabdeveloper8@gmail.com".it must for "@", varifya valid domain like .com ,checks typos
+  loke "gamil `n gmail", and return clear error messages if valid
+
+### Prompt
+
+✦ The email validator will meticulously scrutinize the provided email address, "mehtabdeveloper8@gmail.com", to ensure its validity and catch common errors. It will
+  first confirm the presence of a single "@" symbol, essential for separating the local part from the domain. Subsequently, it will verify that the domain includes a
+  valid top-level domain (TLD) such as ".com". A crucial feature will be its ability to detect and flag common typographical errors, specifically identifying instances
+  where "gamil" is used instead of "gmail". Should any validation rule be violated, the system will return a clear and descriptive error message, guiding the user to
+  correct the specific issue.
+
+  
+# 📁 Part C — Multiple Choice Questions
+
+1. What is the main purpose of Spec-Driven Development?
+
+A. Make coding faster
+B. Clear requirements before coding begins ✔
+C. Remove developers
+D. Avoid documentation
+
+
+
+2. What is the biggest mindset shift in AI-Driven Development?
+
+A. Writing more code manually
+B. Thinking in systems and clear instructions ✔
+C. Memorizing more syntax
+D. Working without any tools
+
+
+
+3. Biggest failure of Vibe Coding?
+
+A. AI stops responding
+B. Architecture becomes hard to extend ✔
+C. Code runs slow
+D. Fewer comments written
+
+4. Main advantage of using AI CLI agents (like Gemini CLI)?
+
+A. They replace the developer completely
+B. Handle repetitive tasks so dev focuses on design & problem-solving ✔
+C. Make coding faster but less reliable
+D. Make coding optional
+
+
+
+5. What defines an M-Shaped Developer?
+
+A. Knows little about everything
+B. Deep in only one field
+C. Deep skills in multiple related domains ✔
+D. Works without AI tools
+
 
 # Art by Mehtab
 
